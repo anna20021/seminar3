@@ -1,0 +1,15 @@
+/Users/snezanapavalaki/Desktop/seminar3/ex002/bin/Debug/net6.0/ex002
+/Users/snezanapavalaki/Desktop/seminar3/ex002/bin/Debug/net6.0/ex002.deps.json
+/Users/snezanapavalaki/Desktop/seminar3/ex002/bin/Debug/net6.0/ex002.runtimeconfig.json
+/Users/snezanapavalaki/Desktop/seminar3/ex002/bin/Debug/net6.0/ex002.dll
+/Users/snezanapavalaki/Desktop/seminar3/ex002/bin/Debug/net6.0/ex002.pdb
+/Users/snezanapavalaki/Desktop/seminar3/ex002/obj/Debug/net6.0/ex002.csproj.AssemblyReference.cache
+/Users/snezanapavalaki/Desktop/seminar3/ex002/obj/Debug/net6.0/ex002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snezanapavalaki/Desktop/seminar3/ex002/obj/Debug/net6.0/ex002.AssemblyInfoInputs.cache
+/Users/snezanapavalaki/Desktop/seminar3/ex002/obj/Debug/net6.0/ex002.AssemblyInfo.cs
+/Users/snezanapavalaki/Desktop/seminar3/ex002/obj/Debug/net6.0/ex002.csproj.CoreCompileInputs.cache
+/Users/snezanapavalaki/Desktop/seminar3/ex002/obj/Debug/net6.0/ex002.dll
+/Users/snezanapavalaki/Desktop/seminar3/ex002/obj/Debug/net6.0/refint/ex002.dll
+/Users/snezanapavalaki/Desktop/seminar3/ex002/obj/Debug/net6.0/ex002.pdb
+/Users/snezanapavalaki/Desktop/seminar3/ex002/obj/Debug/net6.0/ex002.genruntimeconfig.cache
+/Users/snezanapavalaki/Desktop/seminar3/ex002/obj/Debug/net6.0/ref/ex002.dll
